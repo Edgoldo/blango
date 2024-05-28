@@ -1,0 +1,7 @@
+# Files
+settings.py
+db.sqlite3
+
+# Folders
+__pycache__/
+env/
